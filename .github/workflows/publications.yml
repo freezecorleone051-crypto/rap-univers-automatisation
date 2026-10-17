@@ -1,12 +1,24 @@
 name: Rap Univers - sorties musicales
 
+# ─────────────────────────────────────────────────────────────
+# Déclencheurs :
+#   • Automatique : toutes les heures du jeudi 00h00 au dimanche
+#     18h59 (heure de Lubumbashi, UTC+2).
+#     GitHub Actions ne supporte QUE l'UTC (pas de clé timezone) :
+#       local 02h00-18h59 = UTC 00h-16h du même jour (jeu→dim)
+#       local 00h00-01h59 = UTC 22h-23h de la veille  (mer→sam)
+#   • Manuel : bouton "Run workflow" dans l'onglet Actions (tests)
+# ─────────────────────────────────────────────────────────────
 on:
   schedule:
-    # GitHub Actions utilise l'heure UTC. Lubumbashi = UTC+2.
-    # Local jeudi-dimanche 00h-18h = UTC : 0-16h (jeu-dim) + 22-23h (mer-sam)
-    - cron: "0 0-16 * * 0,4-6"
-    - cron: "0 22-23 * * 3-6"
+    - cron: "17 0-16 * * 0,4-6"    # UTC jeu-ven-sam-dim 00h→16h
+    - cron: "17 22-23 * * 3-6"     # UTC mer-jeu-ven-sam 22h→23h
   workflow_dispatch:
+
+# ⚠️ ÉTAPE FINALE : quand le test "Détecter et publier les sorties"
+# est bon, remplace "true" par "false" pour publier réellement.
+env:
+  DRY_RUN: "true"
 
 permissions:
   contents: write
@@ -18,7 +30,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Récupérer le dépôt
@@ -30,21 +42,40 @@ jobs:
           python-version: "3.12"
 
       - name: Installer les dépendances
-        run: pip install -r requirements.txt
+        run: python -m pip install -r requirements.txt
 
-      - name: Rechercher et publier les nouveautés
+      - name: Vérifier les secrets
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          DRY_RUN: "true"
+        shell: bash
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
+            echo "::error::Le secret TELEGRAM_BOT_TOKEN est vide ou absent."
+            exit 1
+          fi
+          if [ -z "$TELEGRAM_CHANNEL_ID" ]; then
+            echo "::error::Le secret TELEGRAM_CHANNEL_ID est vide ou absent."
+            exit 1
+          fi
+          echo "Les deux secrets sont présents."
+
+      - name: Détecter et publier les sorties
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: python bot.py
 
-      - name: Sauvegarder les sorties déjà publiées
+      - name: Sauvegarder l'historique
         run: |
+          if [ ! -f posted.json ]; then
+            echo "Mode test ou aucune publication : rien à sauvegarder."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add posted.json
           if ! git diff --cached --quiet; then
-            git commit -m "Mettre à jour les sorties déjà publiées"
+            git commit -m "Mettre à jour l'historique des sorties"
             git push
           fi
