@@ -18,7 +18,7 @@ on:
 # ⚠️ ÉTAPE FINALE : quand le test "Détecter et publier les sorties"
 # est bon, remplace "true" par "false" pour publier réellement.
 env:
-  DRY_RUN: "true"
+  DRY_RUN: "false"
 
 permissions:
   contents: write
