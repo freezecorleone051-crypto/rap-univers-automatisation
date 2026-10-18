@@ -1100,9 +1100,955 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d55684e90e00bb3e74f5072c1489ed3c/1000x1000-000000-80-0-0.jpg",
       "link": "https://www.deezer.com/album/244719222",
       "ignored": true
+    },
+    "1103270092": {
+      "id": "1103270092",
+      "title": "Dopamine Chamber",
+      "artist": "Fontaines D.C.",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1c966eee509ca0aef9a0c302d7834512/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1103270092"
+    },
+    "1033773272": {
+      "id": "1033773272",
+      "title": "I think I spoke too soon",
+      "artist": "Rachel Chinouriri",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef1a753edce43d87b71da770aa1a0d95/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1033773272"
+    },
+    "1121989592": {
+      "id": "1121989592",
+      "title": "Halfway 2 Jesus",
+      "artist": "Kid Rock",
+      "type": "ALBUM",
+      "date": "2026-10-17",
+      "tracks": 17,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c0a2d92ce287ced950552a0a6fce2ee4/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1121989592"
+    },
+    "1076269272": {
+      "id": "1076269272",
+      "title": "Forever King",
+      "artist": "Z-RO",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 15,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/64b4f92623dbfc91949b9990c1965c74/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1076269272"
+    },
+    "631780011": {
+      "id": "631780011",
+      "title": "Ashes of the Wake (20th Anniversary Edition)",
+      "artist": "Lamb Of God",
+      "type": "ALBUM",
+      "date": "2024-08-30",
+      "tracks": 18,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/14d44bc358592c3bff238d9b74d83e2d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/631780011"
+    },
+    "1059322172": {
+      "id": "1059322172",
+      "title": "No Bad Memories",
+      "artist": "The Avalanches",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 31,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/636c69416eb6a6b9e9493d4671f4bd66/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1059322172"
+    },
+    "73123": {
+      "id": "73123",
+      "title": "Mezmerize",
+      "artist": "System of A Down",
+      "type": "ALBUM",
+      "date": "2005-05-17",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4954f43cc6033ddfa0fa3ee5514a26ca/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/73123"
+    },
+    "1070880252": {
+      "id": "1070880252",
+      "title": "the greatest album of all time",
+      "artist": "Sophia Stel",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dcaec538f04e451d59d18711dbc02c93/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1070880252"
+    },
+    "1120787142": {
+      "id": "1120787142",
+      "title": "Confessions of a Lonely Heart",
+      "artist": "Eric Nam",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/035fc7946bc0a6937fd2d5b52a3b1e70/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1120787142"
+    },
+    "6856704": {
+      "id": "6856704",
+      "title": "London Calling (Remastered)",
+      "artist": "The Clash",
+      "type": "ALBUM",
+      "date": "2001-11-05",
+      "tracks": 19,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1dbb7d7bee08ed2b18deabffd675bd36/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6856704"
+    },
+    "1121863212": {
+      "id": "1121863212",
+      "title": "Young Manhood and Other Donatable Organs",
+      "artist": "Zach Bryan",
+      "type": "EP",
+      "date": "2026-10-16",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/97e28385d9155382fe71793e3d91d436/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1121863212"
+    },
+    "165119": {
+      "id": "165119",
+      "title": "Double Nickels on the Dime",
+      "artist": "Minutemen",
+      "type": "ALBUM",
+      "date": "2006-01-24",
+      "tracks": 43,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ac1f3fe35514b1f3ecf8c371a377d701/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/165119"
+    },
+    "1120995172": {
+      "id": "1120995172",
+      "title": "<THIS IS FOR> WORLD TOUR FINALE in SEOUL - LIVE",
+      "artist": "TWICE",
+      "type": "ALBUM",
+      "date": "2026-10-18",
+      "tracks": 26,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/67df501434197d569266c851391840f9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1120995172"
+    },
+    "357713": {
+      "id": "357713",
+      "title": "Cinematique",
+      "artist": "Akasha",
+      "type": "ALBUM",
+      "date": "1998-09-07",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2388ab8e2bf3d90f8425edaf893dfec9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/357713"
+    },
+    "1120825372": {
+      "id": "1120825372",
+      "title": "Against All Odds",
+      "artist": "Gucci Mane",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 17,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4ca5ae651beab037a5917956c657beba/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1120825372"
+    },
+    "1282894": {
+      "id": "1282894",
+      "title": "Discography",
+      "artist": "Jesuit",
+      "type": "ALBUM",
+      "date": "2011-04-12",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/17cbaeae0b18bdcfa62c340c0c66dd27/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1282894"
+    },
+    "14384666": {
+      "id": "14384666",
+      "title": "Landmark",
+      "artist": "Hippo Campus",
+      "type": "ALBUM",
+      "date": "2017-02-24",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3977d39036118a0ff709cfb533ee214d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/14384666"
+    },
+    "201014902": {
+      "id": "201014902",
+      "title": "Over the Garden Wall (Original Television Soundtrack)",
+      "artist": "Over the Garden Wall",
+      "type": "ALBUM",
+      "date": "2016-07-19",
+      "tracks": 40,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/555965a10ee3b995101114378d4221f0/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/201014902"
+    },
+    "870791762": {
+      "id": "870791762",
+      "title": "Wish You Were Here 50",
+      "artist": "Pink Floyd",
+      "type": "ALBUM",
+      "date": "2025-12-12",
+      "tracks": 30,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5dc8ab621a0ac3e51a9605c4d872879a/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/870791762"
+    },
+    "70614272": {
+      "id": "70614272",
+      "title": "White Creatures",
+      "artist": "Black Sea Dahu",
+      "type": "ALBUM",
+      "date": "2018-10-12",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9294d9bd1cc966097ae900a5baa9e3a4/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/70614272"
+    },
+    "111543132": {
+      "id": "111543132",
+      "title": "The Lumineers",
+      "artist": "The Lumineers",
+      "type": "ALBUM",
+      "date": "2012-06-22",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/111543132"
+    },
+    "960071621": {
+      "id": "960071621",
+      "title": "The Womack Sisters",
+      "artist": "The Womack Sisters",
+      "type": "ALBUM",
+      "date": "2026-08-14",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/53bb3cc12d2b773e7d8d31dd241434c5/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/960071621"
+    },
+    "1029379992": {
+      "id": "1029379992",
+      "title": "NÓMADA",
+      "artist": "Jasiel Nunez",
+      "type": "ALBUM",
+      "date": "2026-07-16",
+      "tracks": 21,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0a87762e18220df607c5b5599517104d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1029379992"
+    },
+    "579212281": {
+      "id": "579212281",
+      "title": "Skjálfti",
+      "artist": "Páll Ragnar Pálsson",
+      "type": "ALBUM",
+      "date": "2023-11-10",
+      "tracks": 15,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1afc8c8b9abfb5c366b0c7d5a68a82b9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/579212281"
+    },
+    "226073832": {
+      "id": "226073832",
+      "title": "Voice Of A Generation (Deluxe)",
+      "artist": "Blitz",
+      "type": "ALBUM",
+      "date": "1982-01-01",
+      "tracks": 22,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd34d266063fbad15c19f615f4f51934/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/226073832"
+    },
+    "1014653071": {
+      "id": "1014653071",
+      "title": "EA SPORTS College Football 27: Halftime (Original Soundtrack)",
+      "artist": "EA SPORTS College Football Marching Band",
+      "type": "ALBUM",
+      "date": "2026-06-30",
+      "tracks": 20,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c6527ef48ee648b05d5f572e2c0da8a8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1014653071"
+    },
+    "475575715": {
+      "id": "475575715",
+      "title": "Pendulum",
+      "artist": "Twin Tribes",
+      "type": "ALBUM",
+      "date": "2023-08-12",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/014583793161ae7126ef5b2dcc34f91d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/475575715"
+    },
+    "779582291": {
+      "id": "779582291",
+      "title": "EA SPORTS College Football 26: Halftime (Original Soundtrack)",
+      "artist": "EA SPORTS College Football Marching Band",
+      "type": "ALBUM",
+      "date": "2025-07-11",
+      "tracks": 16,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b31f325620a9b540835fc5779fbcb72f/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/779582291"
+    },
+    "260149882": {
+      "id": "260149882",
+      "title": "Scratch",
+      "artist": "Catty Cline",
+      "type": "EP",
+      "date": "2023-10-20",
+      "tracks": 6,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8372f4292f643baaca37c6cbb5d8a78b/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/260149882"
+    },
+    "612932": {
+      "id": "612932",
+      "title": "Houdini",
+      "artist": "Melvins",
+      "type": "ALBUM",
+      "date": "1993-08-31",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49154d65749d9a94f5f6b28556ecf02d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/612932"
+    },
+    "11295368": {
+      "id": "11295368",
+      "title": "Foolish Little Girl",
+      "artist": "The Shirelles",
+      "type": "ALBUM",
+      "date": "2009-07-03",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f33b46d78c11295965694949f49c67d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/11295368"
+    },
+    "220691862": {
+      "id": "220691862",
+      "title": "[Lap001]",
+      "artist": "Blake.08",
+      "type": "ALBUM",
+      "date": "2021-07-02",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09db5a57e62fb3904a5426fed96ca649/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/220691862"
+    },
+    "263988592": {
+      "id": "263988592",
+      "title": "Obsidian",
+      "artist": "Northlane",
+      "type": "ALBUM",
+      "date": "2022-03-25",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/751138eb6cb22ba2a10b74a9109425cc/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/263988592"
+    },
+    "803197311": {
+      "id": "803197311",
+      "title": "EA SPORTS College Football 26: Halftime, Vol. 2 (Original Soundtrack)",
+      "artist": "EA SPORTS College Football Marching Band",
+      "type": "ALBUM",
+      "date": "2025-09-03",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/144c5c628124734b24cc446a797531dd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/803197311"
+    },
+    "146544752": {
+      "id": "146544752",
+      "title": "Heaven Beach",
+      "artist": "Anri",
+      "type": "ALBUM",
+      "date": "2011-07-27",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/224ad7d147500ce03844f916edd86d65/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/146544752"
+    },
+    "1064913141": {
+      "id": "1064913141",
+      "title": "JUNKIE JAMS MIXTAPE",
+      "artist": "Parriun",
+      "type": "ALBUM",
+      "date": "2026-09-17",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e43cbb4f9d0c259e339b6766ef14cf8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1064913141"
+    },
+    "364945047": {
+      "id": "364945047",
+      "title": "Mind Palace Music",
+      "artist": "@",
+      "type": "ALBUM",
+      "date": "2023-02-17",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5823e35e6f871425366ad66188afc240/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/364945047"
+    },
+    "153406392": {
+      "id": "153406392",
+      "title": "(What's The Story) Morning Glory?",
+      "artist": "Oasis",
+      "type": "ALBUM",
+      "date": "1995-10-03",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ddb062c517401ee74d8a4df6f895d75e/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/153406392"
+    },
+    "11324114": {
+      "id": "11324114",
+      "title": "This Godless Endeavor",
+      "artist": "Nevermore",
+      "type": "ALBUM",
+      "date": "2005-07-26",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b7d7f48bd26654797c4ceca30194f528/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/11324114"
+    },
+    "99314602": {
+      "id": "99314602",
+      "title": "Don’t You Think You’ve Had Enough?",
+      "artist": "Bleached",
+      "type": "ALBUM",
+      "date": "2019-07-12",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ed9fa8bacb771ff92b725f8bbf00533f/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/99314602"
+    },
+    "1116975942": {
+      "id": "1116975942",
+      "title": "Instinct",
+      "artist": "Angèle",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/15196a8a1146ca37e56a400e6f824d2c/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1116975942"
+    },
+    "6826026": {
+      "id": "6826026",
+      "title": "Violent Things",
+      "artist": "The Brobecks",
+      "type": "ALBUM",
+      "date": "2009-04-25",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f238e42755c1cd512f246ba90eef89e1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6826026"
+    },
+    "1079760932": {
+      "id": "1079760932",
+      "title": "Pylon",
+      "artist": "beabadoobee",
+      "type": "ALBUM",
+      "date": "2026-09-18",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8068009e376b8d7ff0cb1f0801298695/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1079760932"
+    },
+    "942103071": {
+      "id": "942103071",
+      "title": "Super Neutral",
+      "artist": "SOFT NO",
+      "type": "EP",
+      "date": "2026-05-29",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/19835c26aaf950c30197479c5a03474d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/942103071"
+    },
+    "1009856881": {
+      "id": "1009856881",
+      "title": "Triumph & Sadness",
+      "artist": "Ella Thompson",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef9d81aff26308adc6c2655a6e5b1cff/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1009856881"
+    },
+    "310444297": {
+      "id": "310444297",
+      "title": "DEMAGOGO MIL INFORMANDO",
+      "artist": "Ceky Viciny",
+      "type": "ALBUM",
+      "date": "2022-04-14",
+      "tracks": 20,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3f3c4866d30f795ac372b7652db6f82b/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/310444297"
+    },
+    "10916186": {
+      "id": "10916186",
+      "title": "Eliminate",
+      "artist": "AD",
+      "type": "ALBUM",
+      "date": "2015-09-01",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/12247a1aa3d2a92d67c95299b170f98f/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/10916186"
+    },
+    "121552192": {
+      "id": "121552192",
+      "title": "More Than This",
+      "artist": "Trading Yesterday",
+      "type": "ALBUM",
+      "date": "2011-09-28",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a61ee4574cf04a4910891f30bc33fdc6/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/121552192"
+    },
+    "1116406602": {
+      "id": "1116406602",
+      "title": "SAVE YOURSELF",
+      "artist": "OMB Peezy",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b2a2ea3addff60d7681c25c85d4902da/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1116406602"
+    },
+    "890304292": {
+      "id": "890304292",
+      "title": "My-Lovely-Yellow-Kombi",
+      "artist": "loopcinema",
+      "type": "ALBUM",
+      "date": "2026-01-04",
+      "tracks": 6,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7e7bedb5566a4c40bd6d1a237ebee0b4/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/890304292"
+    },
+    "1072659322": {
+      "id": "1072659322",
+      "title": "BURNOUT",
+      "artist": "RUSSELL!",
+      "type": "ALBUM",
+      "date": "2026-09-23",
+      "tracks": 7,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/68d2f300e3509a8bb13f505a0bf5161b/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1072659322"
+    },
+    "105611582": {
+      "id": "105611582",
+      "title": "10,000 Days",
+      "artist": "TOOL",
+      "type": "ALBUM",
+      "date": "2019-08-02",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/105611582"
+    },
+    "112295182": {
+      "id": "112295182",
+      "title": "Euphoria (Original Score from the HBO Series)",
+      "artist": "Labrinth",
+      "type": "ALBUM",
+      "date": "2019-10-04",
+      "tracks": 26,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/10b85cd52971d6d9f084ced5f1ad8ae4/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/112295182"
+    },
+    "14344576": {
+      "id": "14344576",
+      "title": "Follow The Leader",
+      "artist": "Korn",
+      "type": "ALBUM",
+      "date": "1998-08-18",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/35111a59f5d5ef0bf5a7ba2f3a203b25/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/14344576"
+    },
+    "235649302": {
+      "id": "235649302",
+      "title": "Log World",
+      "artist": "Brain Cave",
+      "type": "EP",
+      "date": "2021-07-30",
+      "tracks": 4,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9610da8a795372a083d1082f26f25414/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/235649302"
+    },
+    "1066175541": {
+      "id": "1066175541",
+      "title": "N of 1",
+      "artist": "Dummy",
+      "type": "EP",
+      "date": "2026-10-13",
+      "tracks": 4,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/85b31592e4aa7453b766083b2620d080/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1066175541"
+    },
+    "993035": {
+      "id": "993035",
+      "title": "Deltron 3030",
+      "artist": "Deltron 3030",
+      "type": "ALBUM",
+      "date": "2008-09-16",
+      "tracks": 24,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49620316596da24e88832f31fb3acece/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/993035"
+    },
+    "6475501": {
+      "id": "6475501",
+      "title": "4",
+      "artist": "Beyoncé",
+      "type": "ALBUM",
+      "date": "2013-03-29",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bc927a6b67e8a16351a3de87ba94328c/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6475501"
+    },
+    "577640": {
+      "id": "577640",
+      "title": "Down and Dirty (Original Master Peace)",
+      "artist": "The Click",
+      "type": "ALBUM",
+      "date": "2009-07-15",
+      "tracks": 16,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f7967291ec7abd28f9e64897bf781e9d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/577640"
+    },
+    "339165487": {
+      "id": "339165487",
+      "title": "Mercurial World (Deluxe)",
+      "artist": "Magdalena Bay",
+      "type": "ALBUM",
+      "date": "2022-09-23",
+      "tracks": 28,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09630557a773f02305ce72fd401456c0/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/339165487"
+    },
+    "125044172": {
+      "id": "125044172",
+      "title": "Love & Live",
+      "artist": "LOONA",
+      "type": "EP",
+      "date": "2017-03-13",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/54e79311a7773a1e335b324acdd43e61/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/125044172"
+    },
+    "10150032": {
+      "id": "10150032",
+      "title": "Press Color (Deluxe Edition)",
+      "artist": "Lizzy Mercier Descloux",
+      "type": "ALBUM",
+      "date": "2015-05-11",
+      "tracks": 24,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4e5391394c30202dfb76617fce6c24b8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/10150032"
+    },
+    "1103263772": {
+      "id": "1103263772",
+      "title": "Autosmile",
+      "artist": "@",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fe3f597e0e457a6f1d1d32c434a26810/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1103263772"
+    },
+    "983236081": {
+      "id": "983236081",
+      "title": "ICEMAN",
+      "artist": "Drake",
+      "type": "ALBUM",
+      "date": "2026-05-15",
+      "tracks": 18,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/983236081"
+    },
+    "285757552": {
+      "id": "285757552",
+      "title": "Dawn FM",
+      "artist": "The Weeknd",
+      "type": "ALBUM",
+      "date": "2022-01-07",
+      "tracks": 16,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a2bad973a4002e46109ff36b91fbcfd7/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/285757552"
+    },
+    "755890481": {
+      "id": "755890481",
+      "title": "Transgender Street Legend: The ACAB Anthology (Assigned Compilation at Birth)",
+      "artist": "Left at London",
+      "type": "ALBUM",
+      "date": "2025-06-06",
+      "tracks": 25,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/18306dd78860511b2d3f3639df0e4b90/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/755890481"
+    },
+    "863966952": {
+      "id": "863966952",
+      "title": "Someday We Will Foresee Obstacles",
+      "artist": "Syd Matters",
+      "type": "ALBUM",
+      "date": "2015-06-03",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ca296444c74e6835da6ecff27ac9e050/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/863966952"
+    },
+    "1029558922": {
+      "id": "1029558922",
+      "title": "do you love the color of the sky?",
+      "artist": "Dummy",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/85b31592e4aa7453b766083b2620d080/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1029558922"
+    },
+    "6179534": {
+      "id": "6179534",
+      "title": "Les plus belles musiques de film (The Most Beautiful Movie Soundtrack)",
+      "artist": "Clap Compagnie",
+      "type": "ALBUM",
+      "date": "2012-12-10",
+      "tracks": 23,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2a1dbcba5a4d38be690d292b5206b0cd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6179534"
+    },
+    "700821141": {
+      "id": "700821141",
+      "title": "Kuch Dil Ne Kaha",
+      "artist": "Nikhil-Vinay",
+      "type": "ALBUM",
+      "date": "2002-05-04",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f9abadd7680cdfc4c9a97802c000f1d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/700821141"
+    },
+    "373747": {
+      "id": "373747",
+      "title": "The Stone Roses (20th Anniversary Legacy Edition)",
+      "artist": "The Stone Roses",
+      "type": "ALBUM",
+      "date": "2009-08-06",
+      "tracks": 27,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2bedbf93aec77d9ec5b456b90582d318/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/373747"
+    },
+    "1001895611": {
+      "id": "1001895611",
+      "title": "O2 - Part 1",
+      "artist": "Omarion",
+      "type": "EP",
+      "date": "2026-06-26",
+      "tracks": 7,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b124220c20c7705fe6254cacfd82af72/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1001895611"
+    },
+    "1024932351": {
+      "id": "1024932351",
+      "title": "Netherworlds",
+      "artist": "Insomnium",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/df4e63a49094fada31c724b57bea5f63/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1024932351"
+    },
+    "1074385652": {
+      "id": "1074385652",
+      "title": "Decena Trágica",
+      "artist": "Odisseo",
+      "type": "ALBUM",
+      "date": "2026-10-14",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/553c62f3c4c91bcfa45c46c2baf4e297/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1074385652"
+    },
+    "996031821": {
+      "id": "996031821",
+      "title": "NATURE IS HEALING",
+      "artist": "horsegiirL",
+      "type": "ALBUM",
+      "date": "2026-06-05",
+      "tracks": 15,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3387b1bbd89ed34e8db2c875d5dfa29/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/996031821"
+    },
+    "1011761751": {
+      "id": "1011761751",
+      "title": "See the Light",
+      "artist": "Less Than Jake",
+      "type": "ALBUM",
+      "date": "2013-11-11",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/322398fbfb2500e1b1b2f783b879c643/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1011761751"
+    },
+    "6071064": {
+      "id": "6071064",
+      "title": "Restless Times",
+      "artist": "Clara Hill",
+      "type": "ALBUM",
+      "date": "2004-02-23",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43d02c86a071683b471fdd36647139d3/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6071064"
+    },
+    "996679981": {
+      "id": "996679981",
+      "title": "TV Dinner",
+      "artist": "Wine Lips",
+      "type": "ALBUM",
+      "date": "2026-08-28",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1eb97875638279ed6739bfbb2436c47c/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/996679981"
+    },
+    "550178022": {
+      "id": "550178022",
+      "title": "The Gentlemen (Soundtrack from the Netflix Series)",
+      "artist": "Chris Benstead",
+      "type": "ALBUM",
+      "date": "2024-03-08",
+      "tracks": 30,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/57dcb123ea9b2fe5b96dff496a5e4c1d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/550178022"
+    },
+    "462685495": {
+      "id": "462685495",
+      "title": "Your Lie in April ORIGINAL SONG & SOUNDTRACK",
+      "artist": "Masaru Yokoyama",
+      "type": "ALBUM",
+      "date": "2015-01-21",
+      "tracks": 65,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/424197751c92e8d8b35bf8e478e46ce1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/462685495"
+    },
+    "1047980722": {
+      "id": "1047980722",
+      "title": "Skate Story: Vol. 1 (Deluxe Edition)",
+      "artist": "Blood Cultures",
+      "type": "ALBUM",
+      "date": "2026-10-02",
+      "tracks": 34,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c5992c58f234742516f24e688f63cb24/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1047980722"
+    },
+    "976267481": {
+      "id": "976267481",
+      "title": "A Simple Binary and a Complex Phrase",
+      "artist": "Madds Buckley",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/45f243b71928447919ffc1cc4e5f57dc/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/976267481"
+    },
+    "90104592": {
+      "id": "90104592",
+      "title": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack) (Special Edition)",
+      "artist": "Howard Shore",
+      "type": "ALBUM",
+      "date": "2012-12-10",
+      "tracks": 32,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91cf85f2a97e4cd7b215bb8b581c848f/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/90104592"
+    },
+    "96562842": {
+      "id": "96562842",
+      "title": "The Last Black Man in San Francisco (Original Motion Picture Soundtrack)",
+      "artist": "Emile Mosseri",
+      "type": "ALBUM",
+      "date": "2019-06-07",
+      "tracks": 26,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3ebc6466f2dae82c79858b27f2b920fd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/96562842"
+    },
+    "272207802": {
+      "id": "272207802",
+      "title": "Encanto (Original Motion Picture Soundtrack)",
+      "artist": "Lin-Manuel Miranda",
+      "type": "ALBUM",
+      "date": "2021-11-19",
+      "tracks": 44,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/544f44cd8f85e39223f29cec37a5446e/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/272207802"
+    },
+    "1108490192": {
+      "id": "1108490192",
+      "title": "Silence Radio",
+      "artist": "La Fouine",
+      "type": "ALBUM",
+      "date": "2026-10-16",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d9347b8837fa512b438fd83cfb44a0bf/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1108490192"
+    },
+    "751111711": {
+      "id": "751111711",
+      "title": "last night you said you missed me",
+      "artist": "Hazlett",
+      "type": "ALBUM",
+      "date": "2025-09-12",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ea45015e928d9ec031415d5ddfb266be/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/751111711"
+    },
+    "325940967": {
+      "id": "325940967",
+      "title": "Bar Mediterraneo",
+      "artist": "Nu Genea",
+      "type": "ALBUM",
+      "date": "2022-07-01",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b6cbd4e5b064d17cb3d8c30b200eb9be/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/325940967"
+    },
+    "146540822": {
+      "id": "146540822",
+      "title": "Blue Screen of Death",
+      "artist": "DD/MM/YYYY",
+      "type": "ALBUM",
+      "date": "2005-12-11",
+      "tracks": 25,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c817af2251af81fb34126e2706935534/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/146540822"
+    },
+    "497234911": {
+      "id": "497234911",
+      "title": "ROYALE HIGH CAMPUS 3 (Original Soundtrack)",
+      "artist": "Sound Refinery",
+      "type": "ALBUM",
+      "date": "2023-10-05",
+      "tracks": 19,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c31f4feb7eb2f488dd9f100d60a13ad7/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/497234911"
+    },
+    "768683201": {
+      "id": "768683201",
+      "title": "Is It Now?",
+      "artist": "Automatic",
+      "type": "ALBUM",
+      "date": "2025-09-26",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/14851f8c2af076c893edd132d30793b9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/768683201"
+    },
+    "131339432": {
+      "id": "131339432",
+      "title": "EMMA. (Original Motion Picture Soundtrack)",
+      "artist": "Isobel Waller-Bridge",
+      "type": "ALBUM",
+      "date": "2020-02-14",
+      "tracks": 35,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9d5282d546ce6a3e2a4651332fad2fe9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/131339432"
+    },
+    "913433781": {
+      "id": "913433781",
+      "title": "Live at Fitzgeralds Historic",
+      "artist": "Jackie Venson",
+      "type": "ALBUM",
+      "date": "2026-03-06",
+      "tracks": 31,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/065c3b3ab81e29108c3750ea179e32a3/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/913433781"
+    },
+    "881379272": {
+      "id": "881379272",
+      "title": "Carnavas",
+      "artist": "Silversun Pickups",
+      "type": "ALBUM",
+      "date": "2007-05-22",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/70050085189175d885db0fe111e99fbb/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/881379272"
     }
   },
-  "posted_ids": [],
+  "posted_ids": [
+    "1120825372",
+    "1120995172",
+    "1121863212",
+    "1121989592",
+    "976267481"
+  ],
   "audio_files": [],
   "posted_audio_ids": [],
   "update_offset": 826138466
