@@ -155,52 +155,43 @@ def get_deezer_chart_album_ids():
     return ids
 
 
-def get_album_ids(cached_ids=None):
-    """Essaye MinutePunchline, puis un classement Deezer en repli.
 
-    Le 403 rencontré sur les runners GitHub ne doit plus arrêter tout le workflow.
+def get_album_ids():
+    """Utilise uniquement les sources consacrées
+    aux sorties rap françaises.
+    En cas d'échec, ne publie rien.
     """
-    cached_ids = [str(value) for value in (cached_ids or [])]
     found_ids = []
-    last_error = None
+    errors = []
 
     for source_url in SOURCE_URLS:
         print(f"Lecture de la source : {source_url}")
+
         try:
             response = session.get(source_url, timeout=25)
             response.raise_for_status()
-            found_ids = parse_album_ids_from_html(response.text)
-            if found_ids:
-                print(f"{len(found_ids)} liens d'albums Deezer trouvés.")
-                break
-            print("Page accessible, mais aucun lien Deezer n'a été trouvé.")
+
+            ids = parse_album_ids_from_html(response.text)
+
+            for album_id in ids:
+                if album_id not in found_ids:
+                    found_ids.append(album_id)
+
+            print(f"{len(ids)} albums trouvés sur cette source.")
+
         except (requests.RequestException, ValueError) as error:
-            last_error = error
+            errors.append(f"{source_url}: {error}")
             print(f"Source indisponible : {error}")
 
     if not found_ids:
-        try:
-            found_ids = get_deezer_chart_album_ids()
-            if found_ids:
-                print(
-                    f"Repli Deezer : {len(found_ids)} albums du classement trouvés. "
-                    "Ce repli peut manquer des sorties récentes qui ne sont pas classées."
-                )
-        except (requests.RequestException, ValueError, RuntimeError) as error:
-            print(f"Classement Deezer indisponible : {error}")
-
-    # Garder l'historique connu dans la boucle même si la source web est bloquée.
-    for album_id in cached_ids:
-        if album_id not in found_ids:
-            found_ids.append(album_id)
-
-    if not found_ids:
-        details = f" Dernière erreur de source : {last_error}" if last_error else ""
         raise RuntimeError(
-            "Aucune source de sorties n'est accessible et aucun album n'est en cache."
-            + details
+            "Aucune sortie rap trouvée dans les sources "
+            "autorisées. Publication annulée pour éviter "
+            "les albums hors sujet. "
+            + " | ".join(errors)
         )
-    print(f"{len(found_ids)} identifiants à examiner au total.")
+
+    print(f"{len(found_ids)} albums trouvés au total.")
     return found_ids
 
 
@@ -615,7 +606,7 @@ def main():
         for item in state.get("audio_files", [])
         if item.get("album_id")
     ]
-    ids = get_album_ids(cached_ids=list(albums.keys()) + pending_audio_album_ids)
+    ids = get_album_ids()
 
     # Ne consulter Deezer que pour les ID inconnus.
     for album_id in ids:
@@ -635,8 +626,29 @@ def main():
             except (ValueError, KeyError, TypeError):
                 album["ignored"] = True
 
-    candidates = []
-    for album_id, album in albums.items():
+    
+      candidates = []
+      
+      for album_id in ids:
+          album = albums.get(str(album_id))
+      
+          if not album:
+              continue
+      
+          if str(album_id) in posted_ids or album.get("ignored"):
+              continue
+      
+          if release_date_is_recent(album, today):
+              candidates.append(album)
+      
+      candidates.sort(
+          key=lambda item: (
+              item.get("date", ""),
+              item.get("id", "")
+          ),
+          reverse=True
+      )
+
         if album_id in posted_ids or album.get("ignored"):
             continue
         if release_date_is_recent(album, today):
