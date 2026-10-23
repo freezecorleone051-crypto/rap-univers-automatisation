@@ -2850,6 +2850,846 @@
       "tracks": 19,
       "cover": "https://cdn-images.dzcdn.net/images/cover/ad211db45698dbad73bddec539ba3e56/1000x1000-000000-80-0-0.jpg",
       "link": "https://www.deezer.com/album/7826299"
+    },
+    "154494": {
+      "id": "154494",
+      "title": "Burn Out At The Hydrogen Bar",
+      "artist": "Chemlab",
+      "type": "ALBUM",
+      "date": "2005-07-26",
+      "tracks": 15,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91961aec2cb493fedea0f31efbd59d74/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/154494"
+    },
+    "1105674": {
+      "id": "1105674",
+      "title": "Over the Edge Vol.2 - Pastor Dick: Muriel's Purse Fund",
+      "artist": "Negativland",
+      "type": "ALBUM",
+      "date": "2008-12-16",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/29108434c4bc6de8f1aeb6626f09d74d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1105674"
+    },
+    "1034190": {
+      "id": "1034190",
+      "title": "No Other Comfort",
+      "artist": "Ashen",
+      "type": "ALBUM",
+      "date": "2000-10-01",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/604be16fb1a8a8c5490427015b25fb50/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1034190"
+    },
+    "898414": {
+      "id": "898414",
+      "title": "Silence Is Golden",
+      "artist": "Hushpuppies",
+      "type": "ALBUM",
+      "date": "2008-02-01",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad5c79efc8e4608a677d3e400b44c43e/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/898414"
+    },
+    "81874722": {
+      "id": "81874722",
+      "title": "Acústico - El Sonido del Silencio",
+      "artist": "Alex Campos",
+      "type": "ALBUM",
+      "date": "2013-02-12",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ddade90b78aa8f69aeb09ed54d871562/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/81874722"
+    },
+    "8628766": {
+      "id": "8628766",
+      "title": "Scream (Expanded Edition)",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "2014-09-11",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/72156465c5b5288da207b9ece8b7f424/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/8628766"
+    },
+    "1148543": {
+      "id": "1148543",
+      "title": "Start Today",
+      "artist": "Gorilla Biscuits",
+      "type": "ALBUM",
+      "date": "1989-07-14",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c44c454fa50a9a5cedb907bd3429123b/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1148543"
+    },
+    "320445697": {
+      "id": "320445697",
+      "title": "Everybody Hates You",
+      "artist": "Combichrist",
+      "type": "ALBUM",
+      "date": "2010-04-01",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/35e760f0d31e7aec433ed95e3b8857e1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/320445697"
+    },
+    "355384": {
+      "id": "355384",
+      "title": "Horehound",
+      "artist": "The Dead Weather",
+      "type": "ALBUM",
+      "date": "2009-07-09",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f3b5aa69cf2adbcf35aa4b613f17ca58/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/355384"
+    },
+    "1001042": {
+      "id": "1001042",
+      "title": "The Escape Frame",
+      "artist": "The Escape Frame",
+      "type": "ALBUM",
+      "date": "2008-09-30",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cbb36eb613654679a9cc9c9ed6adef35/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1001042"
+    },
+    "1067363011": {
+      "id": "1067363011",
+      "title": "Familiar",
+      "artist": "Jennifer Loveless",
+      "type": "ALBUM",
+      "date": "2026-10-09",
+      "tracks": 7,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b6ca0b82f036424b3b8f83c23bf7a51b/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1067363011"
+    },
+    "1123964442": {
+      "id": "1123964442",
+      "title": "Strange Muse",
+      "artist": "NMIXX",
+      "type": "EP",
+      "date": "2026-10-21",
+      "tracks": 6,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c167c7ff1e5e86175c00be6e294c3cd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1123964442"
+    },
+    "1120599212": {
+      "id": "1120599212",
+      "title": "Cyberpunk: Edgerunners 2 (Original Series Score)",
+      "artist": "Tsuneo Imahori",
+      "type": "ALBUM",
+      "date": "2026-10-20",
+      "tracks": 39,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/181ae820230d9e396edf4f1b9ca4c30e/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1120599212"
+    },
+    "1047626112": {
+      "id": "1047626112",
+      "title": "Before The World Blows",
+      "artist": "Erykah Badu",
+      "type": "ALBUM",
+      "date": "2026-08-28",
+      "tracks": 16,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b0c4ed80c89bbaad8224a90ce108e0d8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1047626112"
+    },
+    "701126101": {
+      "id": "701126101",
+      "title": "Aapko Pehle Bhi Kahin Dekha Hai",
+      "artist": "Nikhil-Vinay",
+      "type": "ALBUM",
+      "date": "2002-10-25",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f881e697c57c8f01ff2ba97decd68a91/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/701126101"
+    },
+    "81912": {
+      "id": "81912",
+      "title": "Dookie",
+      "artist": "Green Day",
+      "type": "ALBUM",
+      "date": "1994-01-28",
+      "tracks": 15,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1e17054b7bfa6576f64ea867b71ef479/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/81912"
+    },
+    "11321174": {
+      "id": "11321174",
+      "title": "No Time to Bleed",
+      "artist": "Suicide Silence",
+      "type": "ALBUM",
+      "date": "2009-06-26",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/01d1404aea4482d5540925590fa33355/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/11321174"
+    },
+    "719446051": {
+      "id": "719446051",
+      "title": "October Country",
+      "artist": "Ghost Mountain",
+      "type": "ALBUM",
+      "date": "2025-03-07",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91688468ca1fa20ffab7a746d4843d13/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/719446051"
+    },
+    "699652821": {
+      "id": "699652821",
+      "title": "Koi Mere Dil Mein Hai",
+      "artist": "Nikhil-Vinay",
+      "type": "ALBUM",
+      "date": "2004-12-31",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a859d4cea1edeae20f18310c6186b229/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/699652821"
+    },
+    "78638": {
+      "id": "78638",
+      "title": "Avenue Q (Original Broadway Cast Recording)",
+      "artist": "Original Broadway Cast of Avenue Q",
+      "type": "ALBUM",
+      "date": "2003-10-06",
+      "tracks": 21,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/47aa1632a17cf5f9b246ca20e6cc2df5/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/78638"
+    },
+    "961635041": {
+      "id": "961635041",
+      "title": "LUX (Complete Works)",
+      "artist": "ROSALÍA",
+      "type": "ALBUM",
+      "date": "2026-04-16",
+      "tracks": 18,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c9e228763cb9a9552b1c1f71a5442809/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/961635041"
+    },
+    "7578543": {
+      "id": "7578543",
+      "title": "Songbook: Volium III",
+      "artist": "The Vindictives",
+      "type": "ALBUM",
+      "date": "2013-10-22",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/96d74dd10512d2c66ee3c18ab623fc03/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/7578543"
+    },
+    "1100657": {
+      "id": "1100657",
+      "title": "Cults",
+      "artist": "Cults",
+      "type": "ALBUM",
+      "date": "2011-05-23",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d77f91377eeacc9791b1f500de615bd1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1100657"
+    },
+    "52835142": {
+      "id": "52835142",
+      "title": "Ur Djupan Dal",
+      "artist": "Atrium Carceri",
+      "type": "ALBUM",
+      "date": "2017-12-20",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11d603a3dd9b747f2cdc2a71b9223f64/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/52835142"
+    },
+    "754586481": {
+      "id": "754586481",
+      "title": "For Lack of A Better Name (The Extended Mixes)",
+      "artist": "deadmau5",
+      "type": "ALBUM",
+      "date": "2009-10-20",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/317dfe67218c0106417e5d5f0a8d9ef6/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/754586481"
+    },
+    "136948522": {
+      "id": "136948522",
+      "title": "432 Hz Deep Healing",
+      "artist": "Miracle Tones",
+      "type": "ALBUM",
+      "date": "2020-03-27",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c021450852582584459bbceb1f8d5d24/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/136948522"
+    },
+    "11396462": {
+      "id": "11396462",
+      "title": "Miranda Es Imposible!",
+      "artist": "Miranda!",
+      "type": "ALBUM",
+      "date": "2009-08-10",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d9b9fb4f9336acdceb807f0a736fdeb1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/11396462"
+    },
+    "3095471": {
+      "id": "3095471",
+      "title": "Graceland (25th Anniversary Deluxe Edition)",
+      "artist": "Paul Simon",
+      "type": "ALBUM",
+      "date": "2012-06-01",
+      "tracks": 17,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a8c3843f9daf46b8a660b26ef56cb4d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/3095471"
+    },
+    "393273987": {
+      "id": "393273987",
+      "title": "The Golden Band",
+      "artist": "The American Analog Set",
+      "type": "ALBUM",
+      "date": "1999-01-01",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc75a57099b7d82abfde883243dc8f25/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/393273987"
+    },
+    "6846001": {
+      "id": "6846001",
+      "title": "Cocoon Crash",
+      "artist": "K's Choice",
+      "type": "ALBUM",
+      "date": "1998-06-02",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5b68ea31b52699d6afed9cf8ce743c38/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6846001"
+    },
+    "982860831": {
+      "id": "982860831",
+      "title": "Angel So Bad",
+      "artist": "True Mountain Laurel",
+      "type": "ALBUM",
+      "date": "2026-08-28",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cdfc349eb010e788617c1f80d90609f1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/982860831"
+    },
+    "258003372": {
+      "id": "258003372",
+      "title": "No More Tears (30th Anniversary Expanded Edition)",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "2021-09-17",
+      "tracks": 25,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/affe4b98ce118fb1ecfb3de67424e9f8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/258003372"
+    },
+    "916955001": {
+      "id": "916955001",
+      "title": "Reality Star",
+      "artist": "Surfbort",
+      "type": "ALBUM",
+      "date": "2026-03-06",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8131dae15398fca7030c58837a0749ed/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/916955001"
+    },
+    "8628764": {
+      "id": "8628764",
+      "title": "Black Rain (Expanded Edition)",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "2014-09-11",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c22502a41dc90832a9ef1c5a3283d73a/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/8628764"
+    },
+    "879076802": {
+      "id": "879076802",
+      "title": "Made In Heaven",
+      "artist": "Ex Lover",
+      "type": "ALBUM",
+      "date": "2026-01-02",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be4b879648c05df13d706ee2f568b715/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/879076802"
+    },
+    "285969332": {
+      "id": "285969332",
+      "title": "De Hombre a Hombre Unidos Por La Cruz (En Vivo)",
+      "artist": "Jesús Adrián Romero",
+      "type": "ALBUM",
+      "date": "2015-01-15",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d34de1fad0a2c44c512c489216c83dcc/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/285969332"
+    },
+    "616950641": {
+      "id": "616950641",
+      "title": "A Thousand Years",
+      "artist": "Julius Papp",
+      "type": "ALBUM",
+      "date": "2009-07-27",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02965bfe6902aa0d092e4f3fc0a00ca3/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/616950641"
+    },
+    "47074142": {
+      "id": "47074142",
+      "title": "Fuzzy Logic",
+      "artist": "Jerry Paper",
+      "type": "ALBUM",
+      "date": "2013-10-17",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e7fe8be0b03b1cda917c2a7447f9b0fd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/47074142"
+    },
+    "714264841": {
+      "id": "714264841",
+      "title": "Pur Jus",
+      "artist": "Orions Belte",
+      "type": "ALBUM",
+      "date": "2025-09-12",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d341d6af1a5522a1ac315ea2ca919a4d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/714264841"
+    },
+    "461172645": {
+      "id": "461172645",
+      "title": "Wednesday (Original Soundtrack from the Netflix Series)",
+      "artist": "wednesday addams",
+      "type": "ALBUM",
+      "date": "2023-07-21",
+      "tracks": 7,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/143c299b81447f01e99fd208ebae0553/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/461172645"
+    },
+    "209204762": {
+      "id": "209204762",
+      "title": "Keep It Going",
+      "artist": "Julius Papp",
+      "type": "ALBUM",
+      "date": "2006-01-01",
+      "tracks": 6,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b81f025bd71f2b8078f71e8943fae2e5/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/209204762"
+    },
+    "6958686": {
+      "id": "6958686",
+      "title": "Into the Unknown",
+      "artist": "Mercyful Fate",
+      "type": "ALBUM",
+      "date": "2008-07-22",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ff8dc44945280902be18d54f2455b2f9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6958686"
+    },
+    "1408517": {
+      "id": "1408517",
+      "title": "The Ultimate Sin",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "1995-08-21",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cad1a69b4978ff056fd5af5200384335/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1408517"
+    },
+    "1050997032": {
+      "id": "1050997032",
+      "title": "¡Desciende Ya!",
+      "artist": "Elim Los Angeles",
+      "type": "ALBUM",
+      "date": "1999-01-08",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e52c79442775881529ec668db659edc/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1050997032"
+    },
+    "96036": {
+      "id": "96036",
+      "title": "No Rest for the Wicked (Expanded Edition)",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "1993-06-11",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e032cf8e7d1e9f60766f35508c527ab/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/96036"
+    },
+    "196032482": {
+      "id": "196032482",
+      "title": "Binaural Beats - Concentration (Beta Waves)",
+      "artist": "Miracle Tones",
+      "type": "EP",
+      "date": "2021-01-22",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d8fd78d56d494cd47c622f0c05da03c6/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/196032482"
+    },
+    "1110836032": {
+      "id": "1110836032",
+      "title": "shaking",
+      "artist": "DPR CREAM",
+      "type": "ALBUM",
+      "date": "2026-10-15",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52eaf544e1efa49aa06a65863336727e/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1110836032"
+    },
+    "859245792": {
+      "id": "859245792",
+      "title": "Too Easy To Kill",
+      "artist": "Emerson Woolf & the Wishbones",
+      "type": "EP",
+      "date": "2025-10-19",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b53b1df07870318ade919d6ff7cfa6cd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/859245792"
+    },
+    "225749602": {
+      "id": "225749602",
+      "title": "Doorways",
+      "artist": "Cinnamon Chasers",
+      "type": "ALBUM",
+      "date": "2021-05-07",
+      "tracks": 17,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d56bf05147f80f6e67747b83d0c318f3/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/225749602"
+    },
+    "705305611": {
+      "id": "705305611",
+      "title": "Maître-chien, tu penses que ça passe ?",
+      "artist": "Pagure",
+      "type": "EP",
+      "date": "2025-01-30",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d872dd4405bfbc7ddab7540e8ab97d66/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/705305611"
+    },
+    "146495172": {
+      "id": "146495172",
+      "title": "Timely!!",
+      "artist": "Anri",
+      "type": "ALBUM",
+      "date": "2011-07-27",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b86d778a2614f8b253d26e49abc14c09/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/146495172"
+    },
+    "78194": {
+      "id": "78194",
+      "title": "Bark At The Moon (Expanded Edition)",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "1992-10-26",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/041d7858634ce9ca7c92d27d8a9dd274/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/78194"
+    },
+    "11705460": {
+      "id": "11705460",
+      "title": "Colour Green",
+      "artist": "Sibylle Baier",
+      "type": "ALBUM",
+      "date": "2006-01-19",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/997ea3733f2c80513d20dbbf88c58559/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/11705460"
+    },
+    "725476831": {
+      "id": "725476831",
+      "title": "Go Down in History",
+      "artist": "Four Year Strong",
+      "type": "EP",
+      "date": "2014-07-22",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/22d38a5ab2ad45a14c6b78beaa1ca44e/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/725476831"
+    },
+    "769946871": {
+      "id": "769946871",
+      "title": "WEEPING ANGEL",
+      "artist": "iyla",
+      "type": "ALBUM",
+      "date": "2025-08-08",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ce91e5bcc058814335ab79c04bcb4d8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/769946871"
+    },
+    "764958011": {
+      "id": "764958011",
+      "title": "no scope",
+      "artist": "Crushed",
+      "type": "ALBUM",
+      "date": "2025-09-26",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5efa0d9abf0fa74713aa3e67e0152666/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/764958011"
+    },
+    "463824335": {
+      "id": "463824335",
+      "title": "The Land Is Inhospitable and So Are We",
+      "artist": "Mitski",
+      "type": "ALBUM",
+      "date": "2023-09-15",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/db69f7d3ea280f1155256705735648cd/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/463824335"
+    },
+    "157805572": {
+      "id": "157805572",
+      "title": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
+      "artist": "Seatbelts",
+      "type": "COMPILE",
+      "date": "1998-05-21",
+      "tracks": 17,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/23bda74c6dfc6697340f56936f237858/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/157805572"
+    },
+    "268100172": {
+      "id": "268100172",
+      "title": "Diary of a Madman (40th Anniversary Expanded Edition)",
+      "artist": "Ozzy Osbourne",
+      "type": "ALBUM",
+      "date": "2021-11-05",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/033c6e530c072e80ae63467ac48fc8ce/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/268100172"
+    },
+    "1015474941": {
+      "id": "1015474941",
+      "title": "evidence",
+      "artist": "Spike Fuck",
+      "type": "ALBUM",
+      "date": "2026-10-02",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0487ffeb02a9e856c2d1f64d56a77702/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1015474941"
+    },
+    "2941761": {
+      "id": "2941761",
+      "title": "Snowball",
+      "artist": "The Field Mice",
+      "type": "ALBUM",
+      "date": "1989-01-01",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/50396a05b1ae305acfd307e003b1afac/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/2941761"
+    },
+    "207679552": {
+      "id": "207679552",
+      "title": "Moodswings In This Order",
+      "artist": "DPR IAN",
+      "type": "EP",
+      "date": "2021-03-12",
+      "tracks": 8,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7c8bb1fa1ed12319cbe81f2398ae53f1/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/207679552"
+    },
+    "6968823": {
+      "id": "6968823",
+      "title": "Symphonies of Sickness",
+      "artist": "Carcass",
+      "type": "ALBUM",
+      "date": "2009-03-25",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5acbf6aebfebb87a55f262e2f75c36e6/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/6968823"
+    },
+    "115523882": {
+      "id": "115523882",
+      "title": "Tigers Jaw",
+      "artist": "Tigers Jaw",
+      "type": "ALBUM",
+      "date": "2010-05-11",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fbe2111390f473b40ce97de59d391ead/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/115523882"
+    },
+    "1048896342": {
+      "id": "1048896342",
+      "title": "Golden Wastes EP",
+      "artist": "Ween",
+      "type": "EP",
+      "date": "2026-08-14",
+      "tracks": 4,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/efe541cc3b2c82b6a524c29a6d49c1c5/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1048896342"
+    },
+    "5604301": {
+      "id": "5604301",
+      "title": "The Slip",
+      "artist": "Nine Inch Nails",
+      "type": "ALBUM",
+      "date": "2008-06-12",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/80a01e8a03dc367df6f00c458dc89bf8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/5604301"
+    },
+    "458114075": {
+      "id": "458114075",
+      "title": "Gray May Day",
+      "artist": "Max Hatt / Edda Glass",
+      "type": "ALBUM",
+      "date": "2023-06-24",
+      "tracks": 9,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/007530824a6f0b5e3b9d246015a1b3dc/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/458114075"
+    },
+    "687786911": {
+      "id": "687786911",
+      "title": "Primitive Future",
+      "artist": "Julius Papp",
+      "type": "ALBUM",
+      "date": "2007-10-15",
+      "tracks": 14,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/66b97a662de400c2f5019be0ac8291f9/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/687786911"
+    },
+    "1105527492": {
+      "id": "1105527492",
+      "title": "La Formula",
+      "artist": "El Rabbanito",
+      "type": "ALBUM",
+      "date": "2026-09-28",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/180739a796a87bcf83d66095beaeed25/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1105527492"
+    },
+    "118405": {
+      "id": "118405",
+      "title": "Edward Scissorhands",
+      "artist": "Danny Elfman",
+      "type": "ALBUM",
+      "date": "1990-01-01",
+      "tracks": 17,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f6bb3020a3beba119ef9272646995fc8/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/118405"
+    },
+    "1100474172": {
+      "id": "1100474172",
+      "title": "Happiness Anytime",
+      "artist": "Leon Bridges",
+      "type": "ALBUM",
+      "date": "2026-09-25",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/958a5355ab98cf80feacd4eb1ae70967/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1100474172"
+    },
+    "1070277292": {
+      "id": "1070277292",
+      "title": "Resident Evil (Original Motion Picture Soundtrack)",
+      "artist": "Hays Holladay",
+      "type": "ALBUM",
+      "date": "2026-09-18",
+      "tracks": 29,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e265c5464fb40d22afbb18980bb3398d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1070277292"
+    },
+    "1026129572": {
+      "id": "1026129572",
+      "title": "Popstar",
+      "artist": "Tinashe",
+      "type": "ALBUM",
+      "date": "2026-09-25",
+      "tracks": 16,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/562036c5d7129b7e917e3d444d6d4930/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/1026129572"
+    },
+    "14029622": {
+      "id": "14029622",
+      "title": "Troupeau bleu",
+      "artist": "Cortex",
+      "type": "ALBUM",
+      "date": "1975-07-15",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e4d4d5f274d7d4d059e1a6dbde0fc287/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/14029622"
+    },
+    "62562522": {
+      "id": "62562522",
+      "title": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+      "artist": "John Williams",
+      "type": "ALBUM",
+      "date": "2018-05-04",
+      "tracks": 15,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b3cac816a2e273353916a078b5b25b6c/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/62562522"
+    },
+    "920180151": {
+      "id": "920180151",
+      "title": "BLISS",
+      "artist": "Temples",
+      "type": "ALBUM",
+      "date": "2026-06-26",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ccae65d462ec18b58aad3c1a219ba032/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/920180151"
+    },
+    "478033975": {
+      "id": "478033975",
+      "title": "Amor Prohibido",
+      "artist": "Selena",
+      "type": "ALBUM",
+      "date": "2015-03-31",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6bf08f8b8ea8d6cd94e28f722d28cf4b/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/478033975"
+    },
+    "7291016": {
+      "id": "7291016",
+      "title": "Gorgeous Johnny",
+      "artist": "The Skygreen Leopards",
+      "type": "ALBUM",
+      "date": "2009-07-21",
+      "tracks": 13,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aff6387fbfb024f6ccc24a02b8c90052/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/7291016"
+    },
+    "949008581": {
+      "id": "949008581",
+      "title": "new avatar",
+      "artist": "Kelela",
+      "type": "ALBUM",
+      "date": "2026-07-10",
+      "tracks": 12,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d6643ec9004279d994e3f175918cdb9d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/949008581"
+    },
+    "693564631": {
+      "id": "693564631",
+      "title": "Animaru",
+      "artist": "Mei Semones",
+      "type": "ALBUM",
+      "date": "2025-05-02",
+      "tracks": 10,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1644abe4914183fbc4aa7411e11e78ee/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/693564631"
+    },
+    "13877296": {
+      "id": "13877296",
+      "title": "Volta",
+      "artist": "Boogie Belgique",
+      "type": "ALBUM",
+      "date": "2016-09-23",
+      "tracks": 11,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7f78cb8aedeaf81779dade71917d2959/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/13877296"
+    },
+    "347951267": {
+      "id": "347951267",
+      "title": "It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording)",
+      "artist": "Vince Guaraldi",
+      "type": "ALBUM",
+      "date": "2022-08-26",
+      "tracks": 24,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/34653784eafe167be9e58670e333d78d/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/347951267"
+    },
+    "89619": {
+      "id": "89619",
+      "title": "The Lizard",
+      "artist": "Saigon Kick",
+      "type": "ALBUM",
+      "date": "2005-02-08",
+      "tracks": 16,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d1fcd0fc8766b2bc03bf9128d5e915c5/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/89619"
+    },
+    "951380461": {
+      "id": "951380461",
+      "title": "MONTAGEM FEARLESS",
+      "artist": "lirvie",
+      "type": "EP",
+      "date": "2026-04-03",
+      "tracks": 5,
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1fa7a41b3627a732c5dee51cc5038203/1000x1000-000000-80-0-0.jpg",
+      "link": "https://www.deezer.com/album/951380461"
     }
   },
   "posted_ids": [
@@ -2865,6 +3705,7 @@
     "1108490192",
     "1116406602",
     "1116975942",
+    "1120599212",
     "1120787142",
     "1120825372",
     "1120995172",
@@ -2872,6 +3713,7 @@
     "1121989592",
     "1123418152",
     "1123964432",
+    "1123964442",
     "976267481"
   ],
   "audio_files": [],
