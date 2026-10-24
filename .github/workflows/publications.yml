@@ -65,7 +65,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           AUTHORIZED_SENDER_IDS: ${{ secrets.AUTHORIZED_SENDER_IDS }}
-        run: python bot.py
+        run: python source_check.py
 
       - name: Sauvegarder l'historique
         run: |
