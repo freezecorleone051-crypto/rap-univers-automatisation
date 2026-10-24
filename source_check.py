@@ -5,6 +5,9 @@ URLS = {
     "MinutePunchline": "https://minutepunchline.com/sorties/",
     "RSS principal": "https://minutepunchline.com/feed/",
     "RSS sorties": "https://minutepunchline.com/sorties/feed/",
+
+    "SKIT sorties": "https://www.skit.fr/sorties",
+
     "API Deezer sorties": "https://api.deezer.com/editorial/0/releases?limit=5",
     "API Deezer recherche": "https://api.deezer.com/search/album?q=rap&limit=5",
 }
