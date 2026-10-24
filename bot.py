@@ -192,13 +192,13 @@ def get_album_ids() -> list:
             errors.append(f"{source_url}: {error}")
             print(f"Source indisponible : {error}")
 
-    # Solution de secours documentée : le classement Deezer.
-    if not found_ids:
-        try:
-            found_ids = get_deezer_chart_album_ids()
-        except (requests.RequestException, ValueError, RuntimeError) as error:
-            errors.append(f"classement Deezer: {error}")
-            print(f"Classement Deezer indisponible : {error}")
+    # # Solution de secours documentée : le classement Deezer.
+    # if not found_ids:
+    #     try:
+    #         found_ids = get_deezer_chart_album_ids()
+    #     except (requests.RequestException, ValueError, RuntimeError) as error:
+    #         errors.append(f"classement Deezer: {error}")
+    #         print(f"Classement Deezer indisponible : {error}")
 
     if not found_ids:
         raise RuntimeError(
@@ -650,7 +650,7 @@ def main() -> None:
             continue
         if release_date_is_recent(album, today):
             candidates.append(album)
-    candidates.sort(key=lambda item: (item.get("date", ""), item.get("id", "")), reverse=True)
+    # candidates.sort(key=lambda item: (item.get("date", ""), item.get("id", "")), reverse=True)
 
     print("Mode test :", DRY_RUN)
     print("Sorties candidates :", len(candidates))
